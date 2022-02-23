@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dagon's fall, or, The charm broke</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35724</idno>
+            <idno type="STC">Wing D110</idno>
+            <idno type="STC">ESTC R7682</idno>
+            <idno type="EEBO-CITATION">13240136</idno>
+            <idno type="OCLC">ocm 13240136</idno>
+            <idno type="VID">98619</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35724)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98619)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 451:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dagon's fall, or, The charm broke</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Smith ...,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688 --  Sources.</term>
+               <term>Broadsides --  England --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:98619:1" rendition="simple:additions"/>
+            <head>DAGON'S FALL, OR THE CHARM BROKE</head>
+            <p>SO now things begin to come to ſome conſiſtence, a man may without the help of Spectacles, ſee clearly who and who's together; Matters reſolve by degrees into their own proper <hi>Principles:</hi> There was ſuch a mad medley, ſuch a monſtrous con<g ref="char:EOLhyphen"/>fuſion and jumble of things and names, <hi>hodge-podge</hi> together not long ſince, that 'twas impoſſible to know what was what. For a certain kind of odd <hi>Gargon Language</hi> was invented by a ſort of Cunning Fellows (that ſtudied the <hi>Black Art</hi>) half a dozen words whereof were of ſtrange <hi>myſtick</hi> ſignification, and would expreſs as much in ſhort as any thouſand could in the <hi>Oriental</hi> Tongues. There was <hi>Liberty, Property, Proteſtant Religion, Popery, Arbitrary Power, Fears, Jealouſies, Grievances,</hi> and ſome few words more, that an<g ref="char:EOLhyphen"/>ſwered all Queſtions that could poſſibly be propounded, reſolved all doubts and difficulties, ſolved all Arguments and Objections in a trice: In a word, they prov'd any thing and ſignified every thing, and all things together; and yet at the very ſelf-ſame time <hi>(mirandum dictu)</hi> they meant juſt nothing. As for example to the Queſtion, Whether it be not the duty and in<g ref="char:EOLhyphen"/>tereſt of the Subject, to ſupply the King for the Safety and Honour of the Nation? The Anſwer was, <hi>Grievances.</hi> Again, Whether the King and Council's Wiſdom, and the Law of the Land, be not more valuable than <hi>Vox Populi?</hi> The Anſwer was, <hi>Fears and Jealouſies.</hi> And ſo, Whether it be prudently done to run headlong into preſent miſchiefs for fear of ſuture poſſibilities? The Anſwer is, <hi>Popery, Slavery.</hi> Whether 12 or more godly men may not una<g ref="char:EOLhyphen"/>nimouſly agree upon the grand point of <hi>Perjury ſalva fide?</hi> The Anſwer is, the <hi>Proteſtant Religion.</hi> And a thouſand ſuch Queſtions as theſe are equally anſwered, without the trouble of affirmatives or negatives, by one or two of the former <hi>Crambo-words;</hi> as alſo all ſorts of dif<g ref="char:EOLhyphen"/>ficulties are ſully reſolved (and as unappeaſably) as by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. But that which is the miracu<g ref="char:EOLhyphen"/>lous <hi>myſtical</hi> Excellency of theſe <hi>Hieroglyphick</hi> words, they do not only ſeverally anſwer ſe<g ref="char:EOLhyphen"/>veral Queſtions, but any one of them anſwers all queſtions, doubts and ſcruples whatever; ſo that the firſt you hit upon is as good as any one, or all of them together. As thus, ſuppoſe it be asked, Whether it be not as free and lawful for a King to borrow money, if he can, as for any one of his meaneſt Subjects? Now, though indeed the uſual anſwer to this is <hi>Arbitrary Power,</hi> yet you may go handy dandy, and take any one of the reſt that comes firſt, and all's one. But farther, the force of theſe words is ſo great, that not only all Queſtions and Propoſals are by virtue of them extricated and reſolved, but all the ſeveral actions and paſſions, humors, in<g ref="char:EOLhyphen"/>tereſts, intrigues and deſigns of the Artiſts themſelves, that uſe them, though otherwiſe they may ſeem never ſo odd and unaccountable, yet by the help of one of theſe magick terms are acquitted and cleared immediately of all guilt and imputation; and the moſt unjuſt and un<g ref="char:EOLhyphen"/>reaſonable Proceedings imaginable, being but lightly toucht with one of theſe words, ſhall receive ſuch a fair and favourable gloſs and tincture, as to be <hi>metamorphoſed</hi> into the quite contrary, to what it really is. And thus 'tis eaſily made out, That the late King cut off his own Head; That impriſoning, killing and plundering, was to maintain the Right and Free<g ref="char:EOLhyphen"/>dom of the People: That to borrow vaſt Sums, and repay them with Publick Faith <hi>ad Graecas Calendas,</hi> was ſtrict Equity: That to rob and ſtarve Widows and Orphans, was to do Juſtice and Judgment: That to commit Sacriledge, and demoliſh Churches, was for the Honour of God; and to ravage the whole Nation with Fire and Sword, was for the Safety, Peace and Settlement of the Kingdom. Nor do theſe words like thoſe of other Languages grow old or obſolet; for they are as much now in faſhion, as they were forty or fifty years agon; And even ſtill by a certain charm that is in them, <hi>Quidlibet fit ex quolibet.</hi> Thus to give the King no Money, is the Honour and Safety of Himſelf and the Nation. And to let theſe Kingdoms lye in a naked and helpleſs Condition, without any other Strength or Defence, than that of the four Seas, is the beſt way to prevent <hi>French</hi> Monarchy and Incroachment: That to bind the Subjects in a ſtricter Tye of Allegiance, Duty and Affection to their Prince, is to perſwade them that the King is not to be truſted: That to take away His Majeſties <hi>Guards</hi> at a time when there is a horrid Plot againſt His Life, is for the Preſervation of His Majeſty's Perſon; That to do every thing with ſtudied Induſtry againſt His Majeſty's Will and Pleaſure, is an undeniable Teſtimony of Loyalty and Obedience: That like malicious mercileſs <hi>Jews,</hi> to clear and releaſe <hi>Barabbas</hi> by <hi>Ignoramus,</hi> and by ſaving him to hazard and expoſe the Life of their King, is to do like a true Loyal Proteſtant godly Tender Conſcienc'd <hi>Jury.</hi> Nor are Propoſitions, Actions and Things only tranſelementated by theſe <hi>Inchanting</hi> words, but the very Perſons and. Properties of men, ſhall in very few daies ſpace receive a monſtrous <hi>Metamorphoſis;</hi> inſomuch that a Rogue and Villain upon Record, ſhall forthwith become an honeſt man, and credible to ſo great a degree, as to let great and good men's lives lye at the mercy of his naked Oath and Depoſition: And on the contrary, men of confeſt Truth and Honeſty ſhall, by having one or two of the forementioned words caſt into the Scale with him, ſink the Ballance to the
+<pb facs="tcp:98619:2" rendition="simple:additions"/>loweſt and vileſt degrees of <hi>Subarnation, Perjury and Villany.</hi> But what is ſtill more prodi<g ref="char:EOLhyphen"/>gious of ſuch powerful force, is the magick Virtue of theſe words, that appearing lately up and down the City and Country in Printed Characters; and many harmieſs well-mean<g ref="char:EOLhyphen"/>ing People poring too long and often upon them, they became (as ſome of <hi>
+                  <g ref="char:V">Ʋ</g>lyſſes</hi> men by <hi>Circe</hi>'s Cups) all of a ſudden ſtrangely <hi>metamorphoſed</hi> into Aſſes, Wolves, Tygers, Foxes, and ſuch like Beaſts; ſo that, had not the King by his own hand lately remov'd the Evil of the Charm, by certain Printed Characters called a <hi>Declaration;</hi> or Counter charm, they had in all likelihood continued ſo to this very moment.</p>
+            <p>Nay farther yet the very ſeaſons of the Year loie their reſpective natural qualities by the <hi>magical</hi> force of theſe words, and tranſmute into each other, for (by vertue of them) the Dog daies happened laſt year to be in <hi>November</hi> and <hi>Decemb.</hi> and the ſeaſon then was accor<g ref="char:EOLhyphen"/>dingly hot and fiery in moſt parts of the Nation; but more eſpecially in the City of <hi>London</hi> and <hi>Weſtminſter,</hi> the heats were intolerable, inſomuch, that the King was forced about the lat<g ref="char:EOLhyphen"/>ter end of <hi>December</hi> to ſend above five or ſix hundred Perſons of note from their abode at <hi>Weſtminſter,</hi> into the Country, leaſt ſuch a warm concourſe ſhould have bred ſome <hi>peſti<g ref="char:EOLhyphen"/>lential infection:</hi> and all this violent heat (they ſay) was occaſioned only by muttering ac<g ref="char:EOLhyphen"/>cording to art two or three of the forementioned words, ſuch as <hi>Popery, Arbitrary Power and the like.</hi> But there is one extraordinary advantage which theſe words have, <hi>viz.</hi> That any one of them is of itſelf alone, not only a whole <hi>ſentence,</hi> but a whole <hi>ſcience</hi> alſo, ſo that an ordinary <hi>Tailor,</hi> or <hi>Tinker,</hi> though otherwiſe never ſo rude, ignorant, and unlearned, if he get but theſe words readily by rot, he becomes Maſter immediately of the chief <hi>liberal ſciences,</hi> and hath <hi>Grammer, Logick and Rhetorick</hi> enough to diſpute a point of Divini<g ref="char:EOLhyphen"/>ty, State or Law, with the greateſt Profeſſours and Practitioners in the Nation; Ay, and con<g ref="char:EOLhyphen"/>fute them too; urg ehim never ſo hard, with a ſtrong Argument for Prelatical Government in the Church, you are anſwered and confounded preſently by the ſtrength of one almighty word <hi>Popery,</hi> 'tis but pronouncing it <hi>ſecundum artem,</hi> and your buſineſs is done So in State-affairs, and point of Government, argue never ſo convincingly in the defence of <hi>Monarchy,</hi> and the divine and natural right of Kings, your confutation conſiſts but in two words only, <hi>viz. Arbitrary Power.</hi> After which, you muſt e'ne deſiſt with patience, and ſilence; for with theſe Perſons, and in all diſputes and conteſts of the like nature, any thing offered by way of re<g ref="char:EOLhyphen"/>joynder, is hiſt off the ſtage preſently; or if you prove obſtinate in your reaſons, and argu<g ref="char:EOLhyphen"/>ments, 'tis ten to one if you do not diſpute your ſelf into the Clutches of one of their Of<g ref="char:EOLhyphen"/>ficers, and ſo find your ſelf at midnight in an <hi>inchanted Caſtle.</hi> In fine, this hath been the odd poſture of our Affairs for ſome time paſt, and moſt ſtrange <hi>freaks, and pranks</hi> have been played by the help of theſe few words, ſuch monſtrous confuſion, and transfigurations have follow<g ref="char:EOLhyphen"/>ed the force of theſe <hi>ſpells,</hi> that nothing hardly appeared in its true ſhape, or could be known diſtinctly; truth became falſhood, and that again was made truth, honeſt men tur<g ref="char:EOLhyphen"/>ned mere Rogues, and Villains true men all of a ſuddain, Hereſie, Schiſm, and Treaſon, was evangelical Truth and Obedience, and loyalty, and ſo <hi>Vice Verſa.</hi> Now the <hi>Maſter Magi<g ref="char:EOLhyphen"/>cians</hi> and inventers of theſe <hi>ſpells,</hi> (tho 'twas well enough known that they had made a con<g ref="char:EOLhyphen"/>tract with the Devil, and had neither Piety, Truth nor Loyalty at all in them, yet) they had ſo <hi>daubed</hi> and painted themſelves all over with the gloſſy colours of <hi>Proteſtant Religion,</hi> here and there intermixt with <hi>Magical Characters</hi> of liberty, property and the like, that to ſuch as were not very well acquainted with the impoſure and <hi>Legerdemain</hi> of ſuch kind of lim<g ref="char:EOLhyphen"/>ning they were thought to be really what they appeared, and accordingly were admired, as Maſter pieces, and regular draughts of extraordinary nature; but to the more curious, and inquiſitive, and to ſuch as came a little nearer, and breathed upon them, all the fair Varniſh which appeared at a diſtance ſo very charming, quite vaniſhed, and inſtead of a true and regu<g ref="char:EOLhyphen"/>lar picture (of Religion, or Loyalty) it all dwindled into mere rude rough <hi>Landskip:</hi> where the chief things that preſented themſelves to view were the old tuine of Kings Court, and great mens houſes, with devaſtations of Churches and Towns, and the old carkaſſes of wi<g ref="char:EOLhyphen"/>thered Trees (ſomewhat reſembling that near <hi>Paddington</hi>) with a few portraits of Owls, Buzzards, Vultures, Wolves, Dogs, and ſuch like In fine the chief Strength of theſe charms is broke, the <hi>magical</hi> words are become of little or no force, all the <hi>Brazen</hi> heads that of late muttered dreadful <hi>necromantick</hi> ſounds are ſilenced, or elſe (like that of <hi>Fryar Bacon</hi>) fellen down and broken to pieces, We hear no more frightful noiſes now from the <hi>inchanted Caſtle</hi> and <hi>Elephant,</hi> nor from the <hi>burning Headpiece</hi> near <hi>Temple-Bar.</hi> Beſides, one of the chief <hi>Magicians</hi> hath been a long time incloſed in an inchanted Caſtle, and neither by his own art, nor that of his Brethren, can he yet break the ſtrong <hi>ſpell</hi> that confines him; for 'tis ſaid that one condition of the <hi>Inchantment</hi> is, that he ſhall not be enlarged till ſuch time as <hi>five hundred flaming Circles</hi> appear in his defence. But yet ſince theſe <hi>Maſter-magicians</hi> have been quelled, ſome little pedling retailers, have gathered together ſcraps and pieces of broken charms, and are ſtill tampering to uphold the Myſtery and Trade: But every body now is ſo well acquainted with ſuch tricks, and ſo armed with forcible <hi>Countercharms,</hi> that all the weak efforts of their Magical murmurs ſound more like the faint eccho of a dying voice, than ſtrong powerful <hi>ſpells:</hi> And 'tis thought that ere long, when theſe weak re<g ref="char:EOLhyphen"/>mains, and faint efforts of this <hi>black-art</hi> are compleatly laid, the <hi>Magicians</hi> lives (like thoſe in Romance) will be of a date not much longer than their <hi>Inchantments.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>John Smith</hi> in Great <hi>Queen-ſtreet,</hi> Bookſeller, 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
